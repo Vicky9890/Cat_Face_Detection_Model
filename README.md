@@ -1,4 +1,3 @@
-
 # Cat 😺 Face Detection Using OpenCV
 
 This project demonstrates cat face detection using OpenCV. OpenCV is a popular computer vision library, to detect cats in images. The implementation utilizes pre-trained Haar cascade classifier and draw bounding boxes around cats present in the input images.
