@@ -18,4 +18,4 @@ Haar cascades are a machine learning object detection method used to identify ob
 Just run [Code.py](https://github.com/Vicky9890/Cat_Face_Detection_Model/blob/master/Code.py) for Training the model.
   
 ## Output
-![image](https://github.com/Vikash0102/Cat_detection/assets/141572666/066aca7d-09e3-4a5e-bc82-8296f42b229e)
+![image](https://github.com/Vicky9890/Cat_Face_Detection_Model/assets/138276603/09912bd4-4fee-42bf-bbd2-17b578d9f2ec)
